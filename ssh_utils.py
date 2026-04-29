@@ -2,7 +2,7 @@ import paramiko
 
 USERNAME = "eugen"
 PASSWORD = "gradenigo6"
-HOSTNAME = "10.144.105.55"
+HOSTNAME = "192.168.50.201"
 
 COMMANDS = {
     "utils": {

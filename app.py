@@ -40,4 +40,4 @@ start_broadcast_threads(socketio)
 init_socket_handlers(socketio)
 
 if __name__ == '__main__':
-    socketio.run(app, host='10.144.105.55', port=5000, debug=False, allow_unsafe_werkzeug=True)
+    socketio.run(app, host='10.159.0.224', port=67, debug=False, allow_unsafe_werkzeug=True)
